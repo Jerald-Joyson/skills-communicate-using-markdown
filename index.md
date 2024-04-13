@@ -3,7 +3,7 @@
 ### Hello World in H3
 
 #### Image Sample
-![Image of dog](https://picsum.photos/200)
+![Image](https://picsum.photos/200)
 
 #### Code Blocks Sample
 ```
